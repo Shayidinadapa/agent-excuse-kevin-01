@@ -1,0 +1,1 @@
+{"description":"One line an AI agent hands its human after shipping a bug — an entry for make.fun's The Excuse Your Agent Gives You bounty.","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"agent-excuse-kevin-01","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
